@@ -1,0 +1,8 @@
+mtvaf_env/
+cache/
+__pycache__/
+*.pyc
+*.pt
+*.pth
+*.log
+data/twitter/
